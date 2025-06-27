@@ -57,8 +57,8 @@ Automated water tank level management using level sensors and relays.
 
 ## 🗂️ Projects
 
-- 🔗 [Obstacle Avoidance Robot](https://github.com/safal-biswas/obstacle-avoidance-robot)
-- 🔗 [Automated UV-C Sterilizer Box](https://github.com/safal-biswas/uvc-sterilizer-box)
-- 🔗 [Flappy Bird Game (Python)](https://github.com/safal-biswas/Flappy-Bird-PC-game-using-Python-Programming-Language)
-- 🔗 [Minesweeper Game (JS)](https://github.com/safal-biswas/Frontend-Projects/tree/main/Minesweeper-Game)
+- 🔗 [Customised EEPROM](https://github.com/safal-biswas/Proteus-Simulation-Projects/tree/main/Customised%20EEPROM)
+- 🔗 [Air Polution Meter](https://github.com/safal-biswas/Proteus-Simulation-Projects/tree/main/Air%20Polution%20Meter)
+- 🔗 [Fingerprint Based Door Lock System](https://github.com/safal-biswas/Proteus-Simulation-Projects/tree/main/Fingerprint%20Based%20Door%20Lock%20System)
+- 🔗 [Water Level Monitor & Controller](https://github.com/safal-biswas/Proteus-Simulation-Projects/tree/main/Water%20Level%20Monitor%20%26%20Controller)
 
